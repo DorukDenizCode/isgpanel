@@ -1,0 +1,194 @@
+
+
+0
+
+    NURAN AKAR
+
+Ana Sayfa
+Ziyaretlerim
+Reçetelerim
+Raporlarım
+Hastalıklarım
+Tahlillerim
+Radyolojik Görüntülerim
+Patoloji Bilgilerim
+Epikriz Bilgilerim
+Malzeme ve Cihazlarım
+
+    Tarama Verilerim
+
+Radyolojik Görüntülerim
+
+İnternet tarayıcınız görüntü detaylarınızı görüntülemek istediğinizde açılan sayfayı engelleyebilir. Görüntülemek için açılır sayfaya izin vermeniz gereklidir.
+Başlangıç Tarihi
+Bitiş Tarihi
+TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ ARAŞTIRMA VE UYGULAMA HASTANESİ
+27.06.2025
+Açıklama : BT, AKCİĞER, YÜKSEK REZOLUSYONLU
+İşlemler
+TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ ARAŞTIRMA VE UYGULAMA HASTANESİ
+27.06.2025
+Açıklama : AKCİĞER GRAFİSİ P.A. (TEK YÖN)
+İşlemler
+TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ ARAŞTIRMA VE UYGULAMA HASTANESİ
+04.06.2025
+Açıklama : AKCİĞER GRAFİSİ P.A. (TEK YÖN)
+İşlemler
+TEKİRDAĞ AĞIZ VE DİŞ SAĞLIĞI MERKEZİ
+08.05.2025
+Açıklama : ORTOPANTOMOGRAF FİLM ( PANORAMIK )(Z01.2)
+İşlemler
+TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ ARAŞTIRMA VE UYGULAMA HASTANESİ
+06.05.2025
+Açıklama : BRONKOSKOPİ, TANISAL (FLEKSBLE/RİJİT), BRONŞİAL LAVAJ İLE BİRLİKTE VEYA DEĞİL
+Raporu Aç
+İşlemler
+TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ ARAŞTIRMA VE UYGULAMA HASTANESİ
+29.04.2025
+Açıklama : AKCİĞER GRAFİSİ P.A. (TEK YÖN)
+İşlemler
+
+    1
+    2
+    3
+    ›
+
+Rapor Detay Bilgisi
+	
+T.C. Sağlık Bakanlığı Teleradyoloji Sistemi
+TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ ARAŞTIRMA VE UYGULAMA HASTANESİ
+Radyoloji Sonuç Raporu
+	
+
+Hastanın Adı Soyadı 	NURAN AKAR 	Protokol Numarası 	107458120
+Cinsiyeti 	Kadın 	Çekim Tarihi 	-
+LOINC Kodu 		Erişim Numarası 	107458120
+Doğum Tarihi 	20/04/1957 	Klinik 	150-GÖĞÜS HASTALIKLARI
+Bulgular
+
+Hasta Adı,Soyadı : NURAN AKAR
+
+Endikasyon: Tbc?
+
+Uygulama Yolu: Transnazal
+
+Lokal Anestezik: Lidokain sprey %1-2
+
+Vokal Kordlar: Hareketli
+
+Trakea: Normal
+
+Ana Karina: Keskin
+
+SAĞ BRONŞİAL SİSTEM
+
+Sağ ana bronş açık ve normal
+
+Sağ üst lob, apikal, posterior ve anterior segmentleri ve subsegmentleri açık
+
+İntermedier bronş açık ve normal
+
+Orta lob, lateral ve medial segmentleri ve subsegmentleri açık
+
+Alt lob süperior segment ve subsegmentleri açık
+
+Sağ alt lob medial bazal, anterior bazal, lateral bazal ve posterior bazal segmentleri ve subsegmnetleri açık
+
+SOL BRONŞİAL SİSTEM
+
+Sol ana bronş açık ve normal
+
+Sol üst lob üst divizyon apikoposterior ve anterior segmentleri ve subsegmentleri açık, Lingula superior ve inferior
+
+segmentleri ve subsegmentleri açık
+
+Sol alt lob süperior segment ve subsegmentleri açık
+
+Sol alt lob anteromedial bazal, lateral bazal ve posterior bazal segmentleri ve subsegmentleri açık
+
+Bronkoskopik Tanı: normal bronşial sistem
+
+Lavaj: sağ bronşial sistemden lavaj alındı
+
+Biyopsi: alınmadı
+
+Ek Not:
+
+İŞLEMİ GERÇEKLEŞTİREN EKİP
+
+Uzman Hemşire VOLKAN VATAN Dr.Öğr.Üyesi MELTEM YILMAZ
+
+Göğüs Hastalıkları
+
+Dr.EZGİ PINAR ÇİFTÇİ KÜÇÜK
+
+Göğüs Hastalıkları
+
+SALON 1
+
+NAMIK KEMAL ÜNİVERSİTESİ HASTANESİ
+
+Sonuç ve Öneriler
+
+Hasta Adı,Soyadı : NURAN AKAR
+
+Endikasyon: Tbc?
+
+Uygulama Yolu: Transnazal
+
+Lokal Anestezik: Lidokain sprey %1-2
+
+Vokal Kordlar: Hareketli
+
+Trakea: Normal
+
+Ana Karina: Keskin
+
+SAĞ BRONŞİAL SİSTEM
+
+Sağ ana bronş açık ve normal
+
+Sağ üst lob, apikal, posterior ve anterior segmentleri ve subsegmentleri açık
+
+İntermedier bronş açık ve normal
+
+Orta lob, lateral ve medial segmentleri ve subsegmentleri açık
+
+Alt lob süperior segment ve subsegmentleri açık
+
+Sağ alt lob medial bazal, anterior bazal, lateral bazal ve posterior bazal segmentleri ve subsegmnetleri açık
+
+SOL BRONŞİAL SİSTEM
+
+Sol ana bronş açık ve normal
+
+Sol üst lob üst divizyon apikoposterior ve anterior segmentleri ve subsegmentleri açık, Lingula superior ve inferior
+
+segmentleri ve subsegmentleri açık
+
+Sol alt lob süperior segment ve subsegmentleri açık
+
+Sol alt lob anteromedial bazal, lateral bazal ve posterior bazal segmentleri ve subsegmentleri açık
+
+Bronkoskopik Tanı: normal bronşial sistem
+
+Lavaj: sağ bronşial sistemden lavaj alındı
+
+Biyopsi: alınmadı
+
+Ek Not:
+
+İŞLEMİ GERÇEKLEŞTİREN EKİP
+
+Uzman Hemşire VOLKAN VATAN Dr.Öğr.Üyesi MELTEM YILMAZ
+
+Göğüs Hastalıkları
+
+Dr.EZGİ PINAR ÇİFTÇİ KÜÇÜK
+
+Göğüs Hastalıkları
+
+SALON 1
+
+NAMIK KEMAL ÜNİVERSİTESİ HASTANESİ
+
